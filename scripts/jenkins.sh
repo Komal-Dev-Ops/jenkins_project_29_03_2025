@@ -44,7 +44,7 @@ sudo usermod -a -G docker jenkins
 ## AWS configuration & restarts jenkins
 
 aws configure
-
+...
 
 ## Now setup elastic IP on AWS
 
